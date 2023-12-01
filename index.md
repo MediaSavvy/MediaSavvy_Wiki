@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Contact me
       link: /contact-me
+    - theme: alt
+      text: All features
+      link: /features
 
 features:
   - icon: 📅   
