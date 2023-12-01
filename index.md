@@ -32,6 +32,6 @@ features:
     details: My list provides sections and content that other major wiki's do not have.
   - icon: ➕
     title: And More
-    details: Go to mediasavvy.pages.dev/features to see every feature my wiki has to offer.
+    details: And more! Just click the "All Features" button above to see every feature the Wiki has to offer.
 ---
 
