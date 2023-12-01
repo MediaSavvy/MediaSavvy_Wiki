@@ -3,7 +3,7 @@
  
 ***
 
-:::details Unsafe Websites:
+:::details Unsafe Websites
 - **GetIntoPC / GetIntoMAC / iGetIntoPC:** Caught with malware multiple times.
 
 - **TheRarBG:** Fake clone of RarBG.
@@ -95,17 +95,11 @@
 - **Kickass Torrents:** Official site is long gone, all that remain are sketchy copycats
    
 - **The Pirate Bay / TPB:**  Site is no longer moderated, so it's very risky for software and games
-  
-- Any websites pretending to be RARBG. This site has been shut down and other malicious alternatives, linked to TPB (The Pirate Bay) have been popping up. Do not trust them.
-
-- Any website you find on Google by searching for "free game downloads", "cracked games" etc. Google removes piracy websites from it's search results, which means that fake and malware spreading sites will float to the top of the search results. This also applies to searches on YouTube aswell.
-
-- Any website with a scene group name in their URL are UNSAFE - SCENE GROUPS DON'T HAVE SITES! (Examples such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA etc. They do not have websites. Websites with combination of these names aren't safe either.
 :::
 
 ***
 
-::: details Unsafe Programs:
+::: details Unsafe Programs
 - **Limewire:**  Discontinued for years now, anything claiming to be them now should be avoided.
 
 - **Downloadly (video downloader):**  Crypto miner / Note that downloadly.ir is unrelated.
@@ -149,5 +143,13 @@
 - **BitLord:**  Adware
 
 - **kLauncher (Minecraft launcher):**  Has malware.
+:::
+
+::: details Other
+- Any websites pretending to be RARBG. This site has been shut down and other malicious alternatives, linked to TPB (The Pirate Bay) have been popping up. Do not trust them.
+
+- Any website you find on Google by searching for "free game downloads", "cracked games" etc. Google removes piracy websites from it's search results, which means that fake and malware spreading sites will float to the top of the search results. This also applies to searches on YouTube aswell.
+
+- Any website with a scene group name in their URL are UNSAFE - SCENE GROUPS DON'T HAVE SITES! (Examples such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA etc. They do not have websites. Websites with combination of these names aren't safe either.
 :::
 
