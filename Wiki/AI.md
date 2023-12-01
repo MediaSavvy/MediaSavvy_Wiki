@@ -9,7 +9,7 @@ A very popular AI chatbot that answers all your questions and more.
 ##### 2. [Phind ⭐ ](https://www.phind.com/)
 A very good AI chatbot that can answer all your questions and is a very good programming assistant.
 
-##### 3. [Bard](https://bard.google.com/)
+##### 3. [Bard ⭐ ](https://bard.google.com/)
 Google's chatbot.
 
 ##### 4. [OSSChat](https://osschat.io/)
@@ -22,7 +22,7 @@ An excellent AI assistant that you can have conversations with, vent with, help 
 Roleplaying chatbots.
 
 ##### 7. [Perplexity ⭐ ](https://www.perplexity.ai/)
-An amazing GPT-3.5 chatbot. 
+An amazing GPT-3.5 chatbot. Great for research.
 
 ##### 8. [Poe ⭐](https://www.poe.com)
 Multiple chatbots in one app (Claude, ChatGPT, GPT-4, Claude-2 etc) all for free, but some paid chatbots like GPT-4 have limited the amount of times you can chat with them for the day.

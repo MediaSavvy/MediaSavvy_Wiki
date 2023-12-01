@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Contact Us"
+  name: "Contact me"
   text: ""
   tagline:  
   # actions:
