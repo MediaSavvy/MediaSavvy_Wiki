@@ -97,8 +97,6 @@
 - **The Pirate Bay / TPB:**  Site is no longer moderated, so it's very risky for software and games
 :::
 
-***
-
 ::: details Unsafe Programs
 - **Limewire:**  Discontinued for years now, anything claiming to be them now should be avoided.
 
