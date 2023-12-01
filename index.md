@@ -22,13 +22,13 @@ features:
     title: Up-To-Date
     details: I do my best to ensure the website is as accurate and that all the links work as expected.
   - icon: ✅
-    title: Safe 
+    title: Safe and Accurate
     details: Me and a few other members check the websites and programs listed daily to ensure that they are safe, working and accurate.
-  - icon: 🌟
-    title: Exclusive content
+  - icon: 🎁
+    title: Exclusive Content
     details: My list provides sections and content that other major wiki's do not have.
   - icon: ➕
-    title: And more
-    details: Go to https://mediasavvy.pages.dev/features to see every feature my wiki has to offer.
+    title: And More
+    details: Go to mediasavvy.pages.dev/features to see every feature my wiki has to offer.
 ---
 
