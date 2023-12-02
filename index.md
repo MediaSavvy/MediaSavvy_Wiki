@@ -7,8 +7,8 @@ hero:
   text: "A free piracy and media wiki"
   tagline: 
   image:
-    src: /logo.png
-    alt: /logo.png
+    src: /images/logo.png
+    alt: Logo
   actions:
     - theme: brand
       text: Explore Wiki
