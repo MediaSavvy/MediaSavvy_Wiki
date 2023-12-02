@@ -8,6 +8,8 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 
 - Make sure to have an [adblocker](https://mediasavvy.pages.dev/wiki/adblocking/) before going to any websites listed here.
 - Use an antivirus to be safe. Windows Defender is more than enough but if you want to be extra safe, you should do an occasional scan using [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou).
+- When torrenting make sure to use a reliable VPN such as Mullvad or ProtonVPN and bind them to your torrenting client.
+
 :::
 
 ::: info Additional information:
@@ -20,7 +22,7 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 
 ***
 
-# Frequently Asked Questions:
+# 🗣️ Frequently Asked Questions:
 
 ::: details Can I contribute?
 No, not at the moment. I will allow contribution sometime in the future.
@@ -45,5 +47,33 @@ Yes. These are the only mirrors:
  
 I will be making more mirrors in the future.
 :::
+
+***
+
+# 📄 Other Useful Resources Similar To Mine:
+
+#### [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
+
+#### [Champagne Piracy Wiki](https://champagne.pages.dev/)
+
+#### [FMHY](https://fmhy.pages.dev/)
+
+#### [Ripped](https://ripped.guide/)
+
+#### [r/Piracy Megathread](https://rentry.co/megathread)
+
+***
+
+# 👏 Credits:
+
+##### 1. [r/Piracy Megathread](https://rentry.co/megathread): 
+Inspired the Rentry Wiki's layout a little. Also inspired me to start MediaSavvy.
+
+##### 2. [FMHY](https://fmhy.pages.dev/): 
+Inspired me to make an official website for this Wiki. 
+
+##### 3. [FMHY's piracy glossary](https://rentry.org/the-piracy-glossary): 
+Used their piracy glossary in my piracy glossary.
+
 
 
