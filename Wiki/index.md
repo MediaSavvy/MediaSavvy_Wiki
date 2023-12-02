@@ -63,7 +63,7 @@ Inspired me to make an official website for this Wiki.
 Used their piracy glossary in my piracy glossary.
 :::
 
-::: 📄 Other Great Resources
+::: details 📄 Other Great Resources
 1. [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 
 2. [Champagne Piracy Wiki](https://champagne.pages.dev/)
