@@ -8,7 +8,7 @@ hero:
   tagline: 
   image:
     src: /logo.png
-    alt: MediaSavvy
+    alt: /logo.png
   actions:
     - theme: brand
       text: Explore Wiki
