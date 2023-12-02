@@ -64,15 +64,15 @@ Used their piracy glossary in my piracy glossary.
 :::
 
 ::: 📄 Other Great Resources
-📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
+1. [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 
-📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
+2. [Champagne Piracy Wiki](https://champagne.pages.dev/)
 
-📁 [FMHY](https://fmhy.pages.dev/)
+3. [FMHY](https://fmhy.pages.dev/)
 
-📁 [Ripped](https://ripped.guide/)
+4. [Ripped](https://ripped.guide/)
 
-📁 [r/Piracy Megathread](https://rentry.co/megathread)
+5. [r/Piracy Megathread](https://rentry.co/megathread)
 :::
 
 
