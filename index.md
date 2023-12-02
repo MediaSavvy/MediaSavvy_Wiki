@@ -7,7 +7,7 @@ hero:
   text: "A free piracy and media wiki"
   tagline: 
   image:
-    src: /images/logo.png
+    src: https://take-me-to.space/KyF6pJLr.png
     alt: Logo
   actions:
     - theme: brand
