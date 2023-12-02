@@ -6,9 +6,9 @@ hero:
   name: "MediaSavvy!"
   text: "A free piracy and media wiki"
   tagline: 
-  prelink: 
-    title: 🎉 New website!
-    link: https://mediasavvy.pages.dev
+  image:
+    src: /logo.png
+    alt: MediaSavvy
   actions:
     - theme: brand
       text: Explore Wiki
