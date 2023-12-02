@@ -13,6 +13,8 @@ export default defineConfig({
       },
       provider: "local",
     },
+    outline: "deep",
+    logo: "/logo.ico",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Rentry Wiki', link: 'https://rentry.org/mediasavvy' },
