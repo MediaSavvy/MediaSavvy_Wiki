@@ -3,16 +3,13 @@
 layout: home
 
 hero:
-  name: "Contact me"
+  name: "Contact Me"
   text: ""
   tagline:  
-  # actions:
-  #   - theme: brand
-    #   text: Explore Wiki
-   #    link: /wiki/
-   #  - theme: alt
-   #    text: Contact me
-   #    link: /contact-me/
+  actions:
+    - theme: brand
+      text: Back
+      link: /
 
 features:  
   - title: Reddit
