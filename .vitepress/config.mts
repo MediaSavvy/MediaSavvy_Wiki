@@ -15,8 +15,8 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Rentry WIki', link: 'https://rentry.org/mediasavvy' },
-      { text: 'WhatsApp Channel', link: '/whatsapp-channel' }
+      { text: 'Rentry Wiki', link: 'https://rentry.org/mediasavvy' },
+      { text: 'WhatsApp Channel', link: 'https://mediasavvy.pages.dev/whatsapp-channel' }
     ],
     sidebar: [
       {
