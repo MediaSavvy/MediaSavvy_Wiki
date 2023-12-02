@@ -102,9 +102,9 @@
 
 - **VFXdownload:** Intentionally injects malware and bad regulation.
 
-**KoLomPC:** Terrible regulation, and the calculated injection of insidious malware.
+- **KoLomPC:** Terrible regulation, and the calculated injection of insidious malware.
 
-**CrackedFully:** Terrible regulation, and the calculated injection of insidious malware
+- **CrackedFully:** Terrible regulation, and the calculated injection of insidious malware
 
 - **AniMixPlay: (animixplay-city / animixplay-best / animixplay-fun / animixplay-solutions / animixplay-name / animixplay-tube / animixplay-watch / animixplay-movie):** Fake clone. Deceptive.
 
