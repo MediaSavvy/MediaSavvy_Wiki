@@ -30,7 +30,6 @@ export default defineConfig({
       {
         text: 'Categories:',
         items: [
-          { text: '👋 Welcome', link: '/Wiki/' },
           { text: '🚫 Adblocking', link: '/Wiki/Adblocking' },
           { text: '🤖 AI', link: '/Wiki/AI' },
           { text: '💾 Software', link: '/Wiki/Software' },
