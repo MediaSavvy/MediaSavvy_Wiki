@@ -60,7 +60,7 @@
 
 - **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites):**  The real fitGirl repack site is www.fitgirl-repacks.site
 
-- **HaxPC.net / HaxPC.org:** Has malware.
+- **HaxPC. net / HaxPC. org:** Has malware.
 
 - **Softonic:**  Has been caught installing adware and malware onto users computors and phones.
 
@@ -95,6 +95,21 @@
 - **Kickass Torrents:** Official site is long gone, all that remain are sketchy copycats
    
 - **The Pirate Bay / TPB:**  Site is no longer moderated, so it's very risky for software and games
+
+- **Sample Drive:** Intentionally injects malware and bad regulation.
+
+- **YTs. mx:** Deceptive.
+
+- **VFXdownload:** Intentionally injects malware and bad regulation.
+
+**KoLomPC:** Terrible regulation, and the calculated injection of insidious malware.
+
+**CrackedFully:** Terrible regulation, and the calculated injection of insidious malware
+
+- **AniMixPlay: (animixplay-city / animixplay-best / animixplay-fun / animixplay-solutions / animixplay-name / animixplay-tube / animixplay-watch / animixplay-movie):** Fake clone. Deceptive.
+
+- **Zoro:** (zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city) Fake clones. Deceptive.
+
 :::
 
 ::: details Unsafe Programs
