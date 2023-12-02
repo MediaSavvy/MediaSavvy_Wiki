@@ -1,19 +1,13 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# My New Official WhatsApp Channel 🎉
+### My new WhatsApp Channel shares the latest updates and news of MediaSavvy!
 
-hero:
-  name: "My WhatsApp Channel"
-  text: "All the latest news and updates of MediaSavvy!"
-  tagline: 
-  prelink: 
-    title: 🎉 New website!
-    link: https://mediasavvy.pages.dev
-  actions:
-    - theme: brand
-      text: Back
-      link: /
----
-# Join my WhatsApp channel:
+::: tip Note:
+You will only see 30 previous messages of the channel 😔
+:::
 
-To join my official WhatsApp channel follow this link on your phone and click "Follow": https://whatsapp.com/channel/0029VaAOYKbFnSzGhLHMT42u.
+# How to join:
+To join my official WhatsApp channel all you have to do is to open this link on your phone: https://whatsapp.com/channel/0029VaAOYKbFnSzGhLHMT42u
+
+**Hopefully you find it helpful!**
+
+
