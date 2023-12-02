@@ -53,7 +53,6 @@ I will be making more mirrors in the future.
 # Other Stuff:
 
 ::: details 👏 Credits
-
 1. [r/Piracy Megathread](https://rentry.co/megathread): 
 Inspired the Rentry Wiki's layout a little. Also inspired me to start MediaSavvy.
 
@@ -65,7 +64,6 @@ Used their piracy glossary in my piracy glossary.
 :::
 
 ::: 📄 Other Great Resources
-
 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 
 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
