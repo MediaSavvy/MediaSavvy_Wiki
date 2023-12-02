@@ -30,8 +30,8 @@ features:
   - icon: 🎁
     title: Exclusive Content
     details: My list provides sections and content that other major wiki's do not have.
-  - icon: ➕
-    title: And More
-    details: And more! Just click the "All Features" button above to see every feature the Wiki has to offer.
+  - icon: 🌟
+    title: Good Options Only
+    details: My list only provides the best options rather than a large variety of items that is hard to moderate and keep safe.
 ---
 
