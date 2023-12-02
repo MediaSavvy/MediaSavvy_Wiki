@@ -22,6 +22,12 @@ export default defineConfig({
     ],
     sidebar: [
       {
+        text: 'Welcome'
+        items: [ 
+          { text: '👋 Welcome', link: '/Wiki/' }
+        ]
+      },
+      {
         text: 'Categories:',
         items: [
           { text: '👋 Welcome', link: '/Wiki/' },
