@@ -1,4 +1,4 @@
-# 🧩 Extensions (PC only)
+# 🧩 Extensions: For PC
 ### Extensions For Your Browser That Will Make Your Life Easier / Extensions That Are Useful. PC only.
 
 ## 🔒Privacy / Security 
@@ -39,7 +39,7 @@
 
 ***
 
-# Android: (Firefox)
+# Android: Firefox Only
 
 ::: tip Note: To install extensions on your browser for Android you need to install FireFox or any FireFox based browser. Once you installed FireFox you just need to go to your settings and go to "addons". Now once you are there you can browse through the addons and install them.
 :::
@@ -70,6 +70,12 @@
 
 ***
 
+# Android: Kiwi Browser Only
+
+::: tip The Kiwi browser is a chromium based browser that supports 99% of extensions from the chrome web store. To downlaod extensions just press the 3 dots at the top right of your phone and press extensions. The best extensions for Kiwi Browser is the same as the one in FireFox
+
+***
+
 # iOS Extensions (Safari)
 
 ::: tip Note: Safari is the only browser on iOS that supports extensions!
@@ -78,7 +84,7 @@
 ## 🚫Adblockers 
 #### Blocks ads on your web browser.
 
-::: tip For more info on adblocking for iOS just [go here](http://localhost:5173/Wiki/Adblocking.html#adblocking-for-ios-ipados-system-wide)
+::: tip For more info on adblocking for iOS just [go here](mediasavvy.pages.dev/Wiki/Adblocking.html#adblocking-for-ios-ipados-system-wide)
 [THE IOS SECTION IS STILL BEING UPDATED]
 
 
