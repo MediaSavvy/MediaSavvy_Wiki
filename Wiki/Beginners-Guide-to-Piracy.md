@@ -16,7 +16,7 @@
 :::
 
 ::: details I don't know what *insert word* means?
-Check out my [my piracy glossary](https://mediasavvy.pages.dev/PiracyGlossary).
+Check out my [my piracy glossary](https://mediasavvy.pages.dev/Wiki/PiracyGlossary).
 :::
 
 ::: details How can I download Adobe products?
@@ -50,7 +50,7 @@ You can use www.downlaoder.la.
 
 ### 8. [🎦 Movies / TV](https://mediasavvy.pages.dev/Wiki/MoviesandTVShows.html)
 
-### 9. [⚠️ Unsafe websites / programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites.html)
+### 9. [⚠️ Unsafe websites / programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites)
 
 ::: tip Note: This website is still being worked on so more categories are gonna come soon!
 :::

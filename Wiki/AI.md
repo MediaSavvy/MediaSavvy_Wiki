@@ -3,7 +3,7 @@
 
 ## AI Chatbots: 
 
-##### 1. [ChatGPT ⭐ ](https://www.chat.openai.com)
+##### 1. [ChatGPT ⭐ ](https://chat.openai.com)
 A very popular AI chatbot that answers all your questions and more.
 
 ##### 2. [Phind ⭐ ](https://www.phind.com/)
