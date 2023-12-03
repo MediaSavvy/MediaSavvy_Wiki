@@ -1,5 +1,5 @@
 # 🧩 Extensions (PC only)
-#### Extensions For Your Browser That Will Make Your Life Easier / Extensions That Are Useful. PC only.
+### Extensions For Your Browser That Will Make Your Life Easier / Extensions That Are Useful. PC only.
 
 ## 🔒Privacy / Security 
 #### Extensions that help with security and privacy. 
