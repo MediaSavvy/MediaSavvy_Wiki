@@ -1,9 +1,7 @@
 # 🚀 Beginners guide to piracy
 ### The basics of pirating and how to stay safe and more.
 
-***
-
-# 🗣️ Frequently Asked Questions about piracy:
+## 🗣️ Frequently Asked Questions about piracy:
 
 ::: details How do I tell if a site or download is safe? 
 1. When torrenting, make sure you use a good VPN, [go here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) for good VPN recommendations. I also recommend you using the qBittorent torrent client. Note: Make sure you bind your VPN to your torrent client. [Go here](https://rentry.org/bootyguard#3-configure-your-torrent-client) for a guide on how to do that with qBittorent.
@@ -33,10 +31,8 @@ You really don't need anything other than Windows Defender and an occasional Mal
 You can use www.downlaoder.la.
 :::
 
-***
-
-# Resources
-## The following just shows you the categories for you to explore in my wiki.
+## Resources
+### The following just shows you the categories for you to explore in my wiki.
 
 ### 1. [Ad blocking](https://mediasavvy.pages.dev/Wiki/Adblocking.html)
 

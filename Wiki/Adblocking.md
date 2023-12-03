@@ -36,10 +36,10 @@ AdGuard is by far the best adblocker I've used. It has a awesome design and has 
 - On your phone, [go here](https://mega.nz/file/rypx2L6I#WIThLphKrrzwykNDhVbvR5YGXCM2z1mxGpaRoMlTKzg) and download the .apk file.
 - Open the file and wait for it to install, then open it.
     
-!!!danger
+::: danger Note:
 - If you want AdGuard to block ads better, you need to configure the settings. Go [here](https://www.rentry.org/adguard) to configure the settings.
 - If AdGuard tells you to enable HTTPS filtering, **IGNORE IT**. It will stop your internet from working properly.
-!!!
+:::
 
 ***
 
