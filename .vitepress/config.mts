@@ -24,7 +24,8 @@ export default defineConfig({
       {
         text: 'Welcome'
         ,items: [ 
-          { text: '👋 Welcome', link: '/Wiki/' }
+          { text: '👋 Welcome', link: '/Wiki' },
+          { text: '🚀 Beginners Guide to Piracy', link: '/beginners-guide-to-piracy' }
         ]
       },
       {
@@ -37,7 +38,6 @@ export default defineConfig({
           { text: '🎮 Games', link: '/Wiki/Games' },
           { text: '🛡️ Security', link: '/Wiki/Security' },
           { text: '🎵 Music', link: '/Wiki/Music' },
-          { text: '💾 Software', link: '/Wiki/Software' },
           { text: '🎦 Movies/TV', link: '/Wiki/MoviesandTVShows' },
           { text: '🔠 Piracy Glossary', link: '/Wiki/PiracyGlossary' },
           { text: '⚠️ Unsafe sites/programs', link: '/Wiki/UnsafeSites' }

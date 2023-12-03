@@ -1,4 +1,4 @@
-# 🧩Extensions
+# 🧩Extensions (PC only, I will make a guide here on how to use extensions on mobile)
 #### Extensions For Your Browser That Will Make Your Life Easier / Extensions That Are Useful.
 
 ***
