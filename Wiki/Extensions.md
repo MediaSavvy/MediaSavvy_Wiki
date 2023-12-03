@@ -37,10 +37,7 @@
 
 1.  [FastForward ⭐](https://github.com/FastForwardTeam/FastForward): Succesor to Universal Bypass, a browser extension that can bypass annoying link shorteners.
 
-# 🧩 Extensions (Mobile only)
-### Extensions that will make your life easier / essentials. Mobile only.
-
-### Android: (Firefox)
+# Android: (Firefox)
 
 ::: tip Note: To install extensions on your browser for Android you need to install FireFox or any FireFox based browser. Once you installed FireFox you just need to go to your settings and go to "addons". Now once you are there you can browse through the addons and install them.
 :::
@@ -49,6 +46,7 @@
 #### Blocks ads on your web browser.
 
 ::: tip Note: It is best not to have more than one ad blocker as that can trigger some anti adblock. To see how to add system wide dblocking for android go [here](http://localhost:5173/Wiki/Adblocking.html#adblockers-for-android)
+:::
 
 1. uBlock Origin ⭐ : The best adblocker.
 2. Adguard: Another great ad blocker.
