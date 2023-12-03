@@ -40,7 +40,7 @@ You can use www.downlaoder.la.
 
 ### 3. [💾 Cracked Software](https://mediasavvy.pages.dev/Wiki/Software.html)
 
-### 4. [🧩 Essential Browser Extensions](https://mediasavvy.pages.dev/Extensions)
+### 4. [🧩 Essential Browser Extensions](https://mediasavvy.pages.dev/Wiki/Extensions)
 
 ### 5. [🎮 Cracked Games](https://mediasavvy.pages.dev/Wiki/Games.html)
 
