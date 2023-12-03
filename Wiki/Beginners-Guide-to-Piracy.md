@@ -34,25 +34,26 @@ You can use www.downlaoder.la.
 ## Resources
 ### The following just shows you the categories for you to explore in my wiki.
 
-### 1. [Ad blocking](https://mediasavvy.pages.dev/Wiki/Adblocking.html)
+### 1. [🚫 Ad blocking](https://mediasavvy.pages.dev/Wiki/Adblocking.html)
 
-### 2. [AI](https://mediasavvy.pages.dev/Wiki/AI.html)
+### 2. [🤖 AI](https://mediasavvy.pages.dev/Wiki/AI.html)
 
-### 3. [Cracked Software](https://mediasavvy.pages.dev/Wiki/Software.html)
+### 3. [💾cCracked Software](https://mediasavvy.pages.dev/Wiki/Software.html)
 
-### 4. [Essential Browser Extensions (PC only! I will make a section there for mobile soon)](https://mediasavvy.pages.dev/Wiki/Software.html)
+### 4. [🧩cEssential Browser Extensions (PC only! I will make a section there for mobile soon)](https://mediasavvy.pages.dev/Wiki/Software.html)
 
-### 5. [Cracked Games](https://mediasavvy.pages.dev/Wiki/Games.html)
+### 5. [🎮 Cracked Games](https://mediasavvy.pages.dev/Wiki/Games.html)
 
-### 6. [Security](https://mediasavvy.pages.dev/Wiki/Security.html)
+### 6. [🛡️ Security](https://mediasavvy.pages.dev/Wiki/Security.html)
 
-### 7. [Music](https://mediasavvy.pages.dev/Wiki/Music.html)
+### 7. [🎵 Music](https://mediasavvy.pages.dev/Wiki/Music.html)
 
-### 8. [Movies / TV](https://mediasavvy.pages.dev/Wiki/MoviesandTVShows.html)
+### 8. [🎦 Movies / TV](https://mediasavvy.pages.dev/Wiki/MoviesandTVShows.html)
 
-### 9. [Unsafe websites / programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites.html)
+### 9. [⚠️ Unsafe websites / programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites.html)
 
-!!! tip Note: This website is still being worked on so more categories are gonna come soon.
+::: tip Note: This website is still being worked on so more categories are gonna come soon!
+:::
 
 
 
