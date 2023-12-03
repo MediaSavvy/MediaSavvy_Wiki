@@ -21,5 +21,5 @@ So check my piracy wiki out! You won't regret it! And hopefully you find it help
 
 *Note: The website is still being developed and some stuff may not be on my main website yet.*
 
-My main website is here: https://mediasavvy.pages.dev
-My rentry wiki (My rentry page gets content and updates first before they are put into my main website): https://rentry.co/mediasavvy.
+- My main website is here: https://mediasavvy.pages.dev
+- My rentry wiki (My rentry page gets content and updates first before they are put into my main website): https://rentry.co/mediasavvy.
