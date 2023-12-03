@@ -3,22 +3,13 @@
 layout: home
 
 hero:
-  name: "MediaSavvy!"
-  text: "A free piracy and media wiki"
+  name: "All features of the Wiki"
+  text: ""
   tagline: 
-  image:
-    src: https://take-me-to.space/KyF6pJLr.png
-    alt: Logo
   actions:
     - theme: brand
-      text: Explore Wiki
-      link: /Wiki/
-    - theme: alt
-      text: Contact me
-      link: /contact-me
-  #  - theme: alt
-   #   text: All features
-   #   link: /features
+      text: Back
+      link: /
 
 features:
   - icon: 📅   
@@ -34,4 +25,3 @@ features:
     title: Good Options Only
     details: My list only provides the best options rather than a large variety of items that is hard to moderate and keep safe.
 ---
-
