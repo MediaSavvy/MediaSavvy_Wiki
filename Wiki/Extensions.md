@@ -37,6 +37,8 @@
 
 1.  [FastForward ⭐](https://github.com/FastForwardTeam/FastForward): Succesor to Universal Bypass, a browser extension that can bypass annoying link shorteners.
 
+***
+
 # Android: (Firefox)
 
 ::: tip Note: To install extensions on your browser for Android you need to install FireFox or any FireFox based browser. Once you installed FireFox you just need to go to your settings and go to "addons". Now once you are there you can browse through the addons and install them.
@@ -66,7 +68,9 @@
 2. YouTube High Definition ⭐: Enhances the Youtube experience.
 3. Tampermonkey: Popular script manager.
 
-### iOS (Safari)
+***
+
+# iOS Extensions (Safari)
 
 ::: tip Note: Safari is the only browser on iOS that supports extensions!
 :::
