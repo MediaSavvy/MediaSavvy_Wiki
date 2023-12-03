@@ -25,7 +25,7 @@ export default defineConfig({
         text: 'Welcome'
         ,items: [ 
           { text: '👋 Welcome', link: '/Wiki' },
-          { text: '🚀 Beginners Guide to Piracy', link: '/BeginnersGuidetoPiracy' }
+          { text: '🚀 Beginners Guide to Piracy', link: '/beginnersGuide' }
         ]
       },
       {
