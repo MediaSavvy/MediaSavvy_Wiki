@@ -38,9 +38,9 @@ You can use www.downlaoder.la.
 
 ### 2. [🤖 AI](https://mediasavvy.pages.dev/Wiki/AI.html)
 
-### 3. [💾Cracked Software](https://mediasavvy.pages.dev/Wiki/Software.html)
+### 3. [💾 Cracked Software](https://mediasavvy.pages.dev/Wiki/Software.html)
 
-### 4. [🧩Essential Browser Extensions (PC only! I will make a section there for mobile soon)](https://mediasavvy.pages.dev/Wiki/Software.html)
+### 4. [🧩 Essential Browser Extensions](https://mediasavvy.pages.dev/Extensions)
 
 ### 5. [🎮 Cracked Games](https://mediasavvy.pages.dev/Wiki/Games.html)
 
