@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as o,R as s}from"./chunks/framework.AUDb36nd.js";const f=JSON.parse('{"title":"🎮 Games","description":"","frontmatter":{},"headers":[],"relativePath":"Wiki/Games.md","filePath":"Wiki/Games.md"}'),t={name:"Wiki/Games.md"},r=s("",65),i=[r];function l(d,h,n,m,p,c){return e(),o("div",null,i)}const b=a(t,[["render",l]]);export{f as __pageData,b as default};

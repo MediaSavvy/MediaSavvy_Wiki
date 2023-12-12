@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as r}from"./chunks/framework.AUDb36nd.js";const f=JSON.parse('{"title":"👋 Welcome","description":"","frontmatter":{},"headers":[],"relativePath":"Wiki/index.md","filePath":"Wiki/index.md"}'),s={name:"Wiki/index.md"},o=r("",16),i=[o];function l(n,d,h,m,c,u){return a(),t("div",null,i)}const y=e(s,[["render",l]]);export{f as __pageData,y as default};
