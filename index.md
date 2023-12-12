@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "MediaSavvy!"
   text: "A free piracy and media wiki"
-  tagline: 
+  tagline: (Still being developed)
   image:
     src: https://take-me-to.space/KyF6pJLr.png
     alt: Logo
