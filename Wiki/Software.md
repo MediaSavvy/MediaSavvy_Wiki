@@ -184,16 +184,21 @@ Mutaz is a very good website for downloading paid software for free. The only pr
 
 ### 1. [IPAlibrary ⭐ ](https://www.ipalibrary.me)
 
-##### Pros:
-- Easy to use
-- Free
-- Lots of modded/cracked/tweaked apps and games for iPadOS and iOS
-- Safe
+The best cracked/tweaked/modded IPA library I've ever used! It doesn't have a lot of ads, it has a simple design and it's easy to use. 
 
-##### Cons:
-- Nothing
+### 4. [EonHub ⭐ ](https://apps.eonhubapp.com)
 
-The best cracked/tweaked/modded IPA library I've ever used! It doesn't have a lot of ads, it has a simple design and it's easy to use. What more could you ask for. It is 100% safe, meaning there is no viruses or malware. I would highly recommend this site!
+Simple and easy to install apps and games on your iPad or iPhone without needing a computer.
 
-***
+### 5. [iOSHaven](https://ioshaven.com/apps): 
+
+A great modded / tweaked app store. Similar to IPAlibrary. SOme apps / games can be installed via computer or just using your browser.
+
+### 6. [iOSGods](https://app.iosgods.com/)
+
+Similar to iOSHaven.
+
+### 7. [AppCake](https://www.iphonecake.com/)
+
+A nice place for cracked / tweaked / paid apps for iPad and iOS. What I don't like is that it does not have a lot of iPad apps and games, so if you have an iPad I recommend you check the others listed first.
 
