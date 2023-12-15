@@ -47,32 +47,32 @@
 ## 🚫Adblockers 
 #### Blocks ads on your web browser.
 
-::: tip Note: It is best not to have more than one ad blocker as that can trigger some anti adblock. To see how to add system wide dblocking for android go [here](http://localhost:5173/Wiki/Adblocking.html#adblockers-for-android)
+::: tip Note: It is best not to have more than one ad blocker as that can trigger some anti adblock. To see how to add system-wide adblocking for android go [here](http://localhost:5173/Wiki/Adblocking.html#adblockers-for-android)
 :::
 
-1. uBlock Origin ⭐ : The best adblocker.
+1. uBlock Origin ⭐: The best adblocker.
 2. Adguard: Another great ad blocker.
 
 ## 🔒Privacy / Security 
 #### Extensions that help with security and privacy. 
 
 1. Privacy Badger ⭐: A great privacy tool that blocks trackers.
-2. Noscript security suite ⭐: A great privacy and security tool.
-3. ClearURLS: Removes tracking elements from URLS.
-4. Decentraleyes: Protects you and blocks tracking elements thorugh CDN's.
+2. NoScript security suite ⭐: A great privacy and security tool.
+3. ClearURLS: Removes tracking elements from URLs.
+4. Decentraleyes: Protects you and blocks tracking elements through CDNs.
 
 ## ➕ Other
 #### Other good extensions.
 
 1. Dark reader ⭐: Forces dark mode on webpages.
-2. YouTube High Definition ⭐: Enhances the Youtube experience.
+2. YouTube High Definition ⭐: Enhances the YouTube experience.
 3. Tampermonkey: Popular script manager.
 
 ***
 
 # Android: Kiwi Browser Only
 
-::: tip The Kiwi browser is a chromium based browser that supports 99% of extensions from the chrome web store. To downlaod extensions just press the 3 dots at the top right of your phone and press extensions. The best extensions for Kiwi Browser is the same as the one in FireFox
+::: tip The Kiwi browser is a chromium-based browser that supports 99% of extensions from the chrome web store. To download extensions just press the 3 dots at the top right of your phone and press extensions. The best extensions for Kiwi Browser is the same as the one in Firefox
 
 ***
 

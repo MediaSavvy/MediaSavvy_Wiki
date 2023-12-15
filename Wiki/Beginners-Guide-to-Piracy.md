@@ -20,11 +20,11 @@ Check out my [my piracy glossary](https://mediasavvy.pages.dev/Wiki/PiracyGlossa
 :::
 
 ::: details How can I download Adobe products?
-You can downlaod pre cracked adobe products from [M0nkrus](https://https://w14.monkrus.ws/) or crack them yourself using the guides [here](https://www.reddit.com/r/GenP/wiki/index/)
+You can download pre-cracked Adobe products from [M0nkrus](https://https://w14.monkrus.ws/) or crack them yourself using the guides [here](https://www.reddit.com/r/GenP/wiki/index/)
 :::
 
 ::: details What antivirus should I use?
-You really don't need anything other than Windows Defender and an occasional Malwarebytes scan, having other antiviruses is unecessary and bloatware.
+You really don't need anything other than Windows Defender and an occasional Malwarebytes scan, having other antiviruses is unnecessary and bloatware.
 :::
 
 ::: details How can I download images from ___ stock site for free?
@@ -50,7 +50,7 @@ You can use www.downlaoder.la.
 
 ### 8. [🎦 Movies / TV](https://mediasavvy.pages.dev/Wiki/MoviesandTVShows.html)
 
-### 9. [⚠️ Unsafe websites / programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites)
+### 9. [⚠️ Unsafe websites/programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites)
 
 ::: tip Note: 
 This website is still being worked on so more categories are gonna come soon!

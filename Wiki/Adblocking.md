@@ -49,12 +49,12 @@ AdGuard is by far the best adblocker I've used. It has a awesome design and has 
  - Tick all the options you want.
      - These should be more than enough: oisd-full, 1Hosts (Lite), Lightswitch05, StevenBlack, GoodbyeAds (jerryn70)
  - After selecting the options click on Download Apple mobileconfig button.
- - Click allow when the pop up appears.
+ - Click Allow when the pop-up appears.
  - Go to Settings > General > VPN, DNS & Device Management.
  - Click on Downloaded Profile.
  - Click on AhaDNS Blitz.
  - Click on Install.
-  - Enter passcode if you have.
+  - Enter the passcode if you have.
   - Click Next.
   - Click Install.
   - Click Install when the popup appears.
@@ -71,9 +71,9 @@ AdGuard is by far the best adblocker I've used. It has a awesome design and has 
  - Next, go to 'Privacy' and enable everything except for 'Fanboy's Anti-Facebook List' and 'Fanboy's Ant-Facebook List'.
  - Lastly, go to 'Other' and enable Adguard DNS Filter.
  - Now just go back to the home page in the Adguard app and wait for the content blockers to be updated.
- - Enjoy an ad free iOS!
+ - Enjoy an ad-free iOS!
 
-::: info This should block most of the ads in safari and in your games / apps, however if you still see ads then install 1Blocker along with Adguard. Here is how you do it:
+::: info This should block most of the ads in Safari and in your games/apps, however, if you still see ads then install 1Blocker along with Adguard. Here is how you do it:
 :::
 - Search 1Blocker on the App Store and download it.
 - Open the app and follow the instructions.
@@ -93,7 +93,7 @@ AdGuard is by far the best adblocker I've used. It has a awesome design and has 
 #### For Chrome:
 
 ::: danger Chrome is killing adblockers in 2024 sometime in June. 
-Chrome is getting a new update the can possibly put an end to adblockers, or reduce the effectiveness, once this does happen, you will have to use Firefox or Firefox based browsers if you want to use any adblockers.
+Chrome is getting a new update that can possibly put an end to adblockers, or reduce their effectiveness, once this does happen, you will have to use Firefox or Firefox-based browsers if you want to use any adblockers.
 :::
 
 - Go to chrome.google.com/webstore
@@ -117,7 +117,7 @@ Chrome is getting a new update the can possibly put an end to adblockers, or red
 - Go to addons.opera.com
 - Search uBlock origin and install the extension
    - You need to configure the settings for uBlock origin so that it would block even more ads. Go [here](https://take-me-to.space/en2mB3u.png) for the optimal settings. 
- - Next, if you want to block ads more effectively, then install the AdGuard extension aswell.
+ - Next, if you want to block ads more effectively, then install the AdGuard extension as well.
 
 ***
 
@@ -126,14 +126,14 @@ Chrome is getting a new update the can possibly put an end to adblockers, or red
  - Go to chrome.google.com/webstore
  - Search uBlock origin and install the extension
     - You need to configure the settings for uBlock origin so that it would block even more ads. Go [here](https://take-me-to.space/en2mB3u.png) for the optimal settings. 
-  - Next, if you want to block ads more effectively, then install the AdGuard extension aswell.
+  - Next, if you want to block ads more effectively, then install the AdGuard extension as well.
 
 ***
 
 ### Adblockers for Windows system-wide:
 
    [Safing Portmaster](https://safing.io/)
-  Pi-hole alternative. Block ads & trackers system wide. Monitor all network activity. Manually allow or block connections. Auto-block via selected filter lists. Enforce DNS-over-HTTPS / TLS. Configure settings for different networks. Set global & per‑app settings.
+  Pi-hole alternative. Block ads & trackers system-wide. Monitor all network activity. Manually allow or block connections. Auto-block via selected filter lists. Enforce DNS-over-HTTPS / TLS. Configure settings for different networks. Set global & per‑app settings.
 
 ####  Instructions:
 Just install Safing Portmaster.

@@ -39,7 +39,7 @@ Anthropic's AI chatbot.
 An excellent chatbot that will answer your questions as well as learning.
 
 ##### 2. [Teach Anything ⭐ ](https://www.teach-anything.com/) {Currently not working}
-Teach Anything teaches you stuff with an easy and professional explaination.
+Teach Anything teaches you stuff with an easy and professional explanation.
 
 ## Image generators: 
 

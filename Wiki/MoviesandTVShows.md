@@ -1,5 +1,5 @@
-# 🎦 Movies / TV-Shows
-### This website shows you how to watch and download movies and TV-Shows for free. 
+# 🎦 Movies / TV shows
+### This website shows you how to watch and download movies and TV shows for free. 
 
 
 ***
@@ -7,7 +7,7 @@
 ### Best Websites For Movie Streaming: 
 
 ### 1. [HDToday ⭐ ](https://www.hdtoday.ru)
-There are hundreds of movies and tv shows accessible with multiple subtitles. All of them are available for free. 
+There are hundreds of movies and TV shows accessible with multiple subtitles. All of them are available for free. 
 
 ### 2. [FMovies ⭐](https://www.fmovies.name)
 Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.
@@ -28,10 +28,10 @@ A fantastic selection of free high-definition movies and series. New content and
 Keep track of, explore, and stream all of your movies and TV shows. It's a very well designed site.
 
 ### 8. [SFlix ⭐ ](https://sflix.to/)
-One of the best free sites for binge watching movies online in HD quality without any registration or money.
+One of the best free sites for binge-watching movies online in HD quality without any registration or money.
 
 ### 9. [Smashystream ⭐ ](https://embed.smashystream.com/)
-You can watch a lot of movies on here in HD quality. An amazing design.
+You can watch a lot of movies here in HD quality. An amazing design.
 
 ### 10. [Soap2day](https://soap2day.rs/) / [2](https://soap2day.mn/)
 Great alternatives since the fall of the original soapgate.cc. Offering a tonne of free movies. 
@@ -51,19 +51,19 @@ Download full movies in high-bitrate, high-resolution formats without having to 
 ***
 ### Best Movie Apps For Android:
 
-### 1. [NovaTV ⭐ ](https://www.novatv.app) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)
-One of the first free movies app I have used! It has high quality movies, it has TV-Shows and it's free. It does have ads but your adblocker should block them.
+### 1. [NovaTV ⭐ ](https://www.novatv.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)
+One of the first free movies app I have used! It has high-quality movies, it has TV shows and it's free. It does have ads but your adblocker should block them.
 
 ### 2. [FilmPlus](https://www.filmplusapp.com) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=filmplus&sf=titleonly)
-I would recommend this app to anyone I know! It's free, easy to use, has TV-Shows and has a lot of high quality movies and TV-Shows. FilmPlus does have ads so you can use a [system wide adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) to block them, or you could download a mod to remove them, which is lsited above.
+I would recommend this app to anyone I know! It's free, easy to use, has TV shows and has a lot of high-quality movies and TV shows. FilmPlus does have ads so you can use a system-wide[ adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) to block them, or you could download a mod to remove them, which is listed above.
 
-### 3. [BeeTV](https://www.beetvapp.me) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=beetv&sf=titleonly)
-BeeTV is also very good. It's free, has a lot of high quality movies and TV-Shows and it's easy to use. BeeTV does have ads so you can use a [system wide adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) to block them, or you could download a mod to remove them, which is listed above.
+### 3. [BeeTV](https://www.beetvapp.me) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=beetv&sf=titleonly)
+BeeTV is also very good. It's free, has a lot of high-quality movies and TV shows and it's easy to use. BeeTV does have ads so you can use a [system-wide adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) to block them, or you could download a mod to remove them, which is listed above.
 
-### 4. [OnStream ⭐ ](https://onstream.so) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=onstream&sf=titleonly)
+### 4. [OnStream ⭐ ](https://onstream.so) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=onstream&sf=titleonly)
 OnStream is the best streaming app for Android fullstop. It has an extremely modern and gorgeous UI. It is also very fast at loading and streaming movies with little to no buffering. Onstream does have ads so you can use a [system-wide adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) to block them, or you could download a mod to remove them.
 
-### 5. [HDO Box ⭐](https://hdo.app) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)
+### 5. [HDO Box ⭐](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)
 
 Similar to OnStream. It has a modern and simple design. Very fast with little buffering. Note: This app has ads so either use a [system-wide adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) or download a mod for it, which is listed above.
 

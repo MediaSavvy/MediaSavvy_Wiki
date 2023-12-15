@@ -62,9 +62,9 @@
 
 - **HaxPC. net / HaxPC. org:** Has malware.
 
-- **Softonic:**  Has been caught installing adware and malware onto users computors and phones.
+- **Softonic:**  Has been caught installing adware and malware onto users computers and phones.
 
-- **1337x:**  Caught having a crypto miner in one of the software, and apparently has something to do with the 1337x staff. Hosts and supporting uploaders who upload malware to the site, and not banning them when they get caught. If you ***have*** to download from 1337x then ***ONLY*** get the games from the following uploaders: 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (For Linux), KaOsKrew, s7on3r and TinyRepacks. Do ***NOT** download any software on 1337x.
+- **1337x:**  Caught having a crypto-miner in one of the software, and apparently has something to do with the 1337x staff. Hosts and supporting uploaders who upload malware to the site, and not banning them when they get caught. If you ***have*** to download from 1337x then ***ONLY*** get the games from the following uploaders: 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (For Linux), KaOsKrew, s7on3r and TinyRepacks. Do ***NOT** download any software on 1337x.
    
 - **FileCR:**  Added FileCR (To learn more on why I put FileCR here, [go here](https://rentry.co/filecr_malware) 
  
@@ -125,7 +125,7 @@
 
 - **AVG:**  Owned by Avast.
 
-- **CCleaner:**  Owned by Avast, best to use built in win 11 tool or bleachbit.
+- **CCleaner:**  Owned by Avast, best to use built-in Windows 11 tool or bleachbit.
 
 - **Private Internet Access:**  Owned by malware distributor Kape.
 
@@ -133,13 +133,13 @@
 
 - **Acord (Discord Mod):**  Has remote eval backdoor.
 
-- **BlueKik / Bluecord (chat mods):**  History of spam / spying.
+- **BlueKik / Bluecord (chat mods):**  History of spam/spying.
 
-- **Kik (Messaging App):**  App used by mostly predators / scammers.
+- **Kik (Messaging App):**  App used by mostly predators/scammers.
 
 - **TLauncher (Minecraft Launcher):**  Shady business practices / Note that TLauncher Legacy is unrelated and safe.
 
-- **PolyMC (Minecraft Launcher):**  Owner kicked all members from repo / discord.
+- **PolyMC (Minecraft Launcher):**  Owner kicked all members from repo/discord.
 
 - **GShade (ReShade mod):**  Dev added code that can trigger unwanted reboots.
 
@@ -149,7 +149,7 @@
 
 - **VSTorrent:**  Caught with malware
    
-- **uTorrent:** Considered adware, pre-adware versions exist, but its best to use open source clients
+- **uTorrent:** Considered adware, pre-adware versions exist, but its best to use open-source clients
   
 - **BitTorrent / BitComet:**  Adware
 
@@ -161,8 +161,8 @@
 ::: details Other
 - Any websites pretending to be RARBG. This site has been shut down and other malicious alternatives, linked to TPB (The Pirate Bay) have been popping up. Do not trust them.
 
-- Any website you find on Google by searching for "free game downloads", "cracked games" etc. Google removes piracy websites from it's search results, which means that fake and malware spreading sites will float to the top of the search results. This also applies to searches on YouTube aswell.
+- Any website you find on Google by searching for "free game downloads", "cracked games" etc. Google removes piracy websites from its search results, which means that fake and malware-spreading sites will float to the top of the search results. This also applies to searches on YouTube as well.
 
-- Any website with a scene group name in their URL are UNSAFE - SCENE GROUPS DON'T HAVE SITES! (Examples such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA etc. They do not have websites. Websites with combination of these names aren't safe either.
+- Any website with a scene group name in their URL are UNSAFE - SCENE GROUPS DON'T HAVE SITES! (Examples such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA etc. They do not have websites. Websites with a combination of these names aren't safe either.
 :::
 

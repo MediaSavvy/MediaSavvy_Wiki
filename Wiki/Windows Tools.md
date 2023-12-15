@@ -13,7 +13,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 
 ***
 
-### Office and Windows genuine / untouched downloads:
+### Office and Windows genuine/untouched downloads:
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 

@@ -34,7 +34,7 @@ Warez | A term used to describe pirated software, video games & music files.
 
 ***
 ### Books / Comics / Manga Terms
-#### Terms related to books, comics , manga and other literature piracy. 
+#### Terms related to books, comics, manga and other literature piracy. 
 ***
 **Term** | **Definition**
 ------ | ------
@@ -57,7 +57,7 @@ Webtoon | A webtoon is typically a South Korean webcomic.
 
 ***
 ### Movie / TV / Anime Terms
-#### Terms related to movies, tv shows, and other film piracy. 
+#### Terms related to movies, TV shows, and other film piracy. 
 ***
 **Term** | **Definition**
 ------ | ------

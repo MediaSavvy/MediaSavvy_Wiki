@@ -25,7 +25,7 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 # 🗣️ Frequently Asked Questions:
 
 ::: details Can I contribute?
-No, not at the moment. I will allow contribution sometime in the future.
+No, not at the moment. I will allow contributions sometime in the future.
 :::
 
 ::: details Can I donate?
@@ -33,8 +33,8 @@ No. I will never take donations.
 :::
 
 ::: details How do you check these websites and programs for their safety?
-For software downloading websites I download a lot of software from them and scan them via Virustotal and I monitor their behaviour. I also do research on those websites I list here to make sure they are safe.
-For programs I will test them myself, do research on them and scan them with Virustotal and other tools.
+For software downloading websites, I download a lot of software from them and scan them via Virustotal and I monitor their behavior. I also research the websites I list here to make sure they are safe.
+For programs, I will test them myself, do research on them and scan them with Virustotal and other tools.
 :::
 
 ::: details Will this project ever get discontinued in the future?
