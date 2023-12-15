@@ -27,7 +27,7 @@ You can downlaod pre cracked adobe products from [M0nkrus](https://https://w14.m
 You really don't need anything other than Windows Defender and an occasional Malwarebytes scan, having other antiviruses is unecessary and bloatware.
 :::
 
-::: details How can I downlaod images from ___ stock site for free?
+::: details How can I download images from ___ stock site for free?
 You can use www.downlaoder.la.
 :::
 
@@ -52,7 +52,8 @@ You can use www.downlaoder.la.
 
 ### 9. [⚠️ Unsafe websites / programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites)
 
-::: tip Note: This website is still being worked on so more categories are gonna come soon!
+::: tip Note: 
+This website is still being worked on so more categories are gonna come soon!
 :::
 
 
