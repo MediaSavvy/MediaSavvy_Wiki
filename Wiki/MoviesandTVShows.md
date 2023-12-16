@@ -25,7 +25,7 @@ The ideal destination for your favorite movies and TV series. The algorithm inte
 A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 
 ### 7. [Seez](https://seez.su/)
-Keep track of, explore, and stream all of your movies and TV shows. It's a very well designed site.
+Keep track of, explore, and stream all of your movies and TV shows. It's a very well-designed site.
 
 ### 8. [SFlix ⭐ ](https://sflix.to/)
 One of the best free sites for binge-watching movies online in HD quality without any registration or money.
@@ -39,9 +39,8 @@ Great alternatives since the fall of the original soapgate.cc. Offering a tonne 
 ### 11. [HiMovies](https://www5.himovies.to/)
 You can find a large range of new films and series on the website, most of them are in HD quality.
 
-### 12. [SusFlix ⭐](https://susflix.tv/)
-An excellent movie / TV streaming website that has an iOS and Android app. You do have to sign-up though.
-
+### 12. [SusFlix](https://susflix.tv/)
+An excellent movie / TV streaming website that has an iOS and Android app. You do have to sign up though.
 
 ***
 
@@ -70,6 +69,19 @@ OnStream has an extremely modern and gorgeous UI. It is also very fast at loadin
 ### 5. [HDO Box ⭐](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)
 
 Similar to OnStream. It has a modern and simple design. Very fast with little buffering. Note: This app has ads so either use a [system-wide adblocker](https://mediasavvy.pages.dev/Wiki/Adblocking.html#adblockers-for-android) or download a mod for it, which is listed above.
+
+### 6. [OFOO](https://ofoo.pages.dev/)
+
+A great movie streaming app for Android. The design is great, the streaming is fast and the app has no ads. Just doesn't have an option to download the movie / TV show you want. I also don't like that the source code is only available to people who pay for it.
+
+### 7. [Flixclusive](https://github.com/rhenwinch/Flixclusive)
+
+Another great movie streaming app, it has a simple and modern design with no ads. It is open-source and has fast streaming speeds.
+
+:::tip Note:
+As I'm writing this the download link in the GitHub readme isn't working, so go [here](https://github.com/rhenwinch/Flixclusive/releases/) for the official working download link on GitHub.
+:::
+
 
 ***
 
