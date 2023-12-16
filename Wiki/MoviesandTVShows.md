@@ -6,7 +6,7 @@
 
 ### Best Websites For Movie Streaming: 
 
-### 1. [watch.lonlil](https://watch.lonelil.com/)
+### 1. [watch.lonlil ⭐](https://watch.lonelil.com/)
 A great website to watch 4K movies and TV shows.
 
 ### 2. [FMovies ⭐](https://www.fmovies.name)
@@ -38,6 +38,10 @@ Great alternatives since the fall of the original soapgate.cc. Offering a tonne 
 
 ### 11. [HiMovies](https://www5.himovies.to/)
 You can find a large range of new films and series on the website, most of them are in HD quality.
+
+### 12. [SusFlix ⭐](https://susflix.tv/)
+An excellent movie / TV streaming website that has an iOS and Android app. You do have to sign-up though.
+
 
 ***
 
