@@ -28,7 +28,7 @@ Spotube is also another very good free music streaming app for Windows and Andro
 To update Spotube you will have to download the latest version of the app from the GitHub page and just open the .APK. You must not uninstall Musify to update it. 
 :::
 
-#### 3. [Blackhole ⭐ ](https://sangwan5688.github.io/)
+#### 3. [Blackhole ⭐ ](https://github.com/Sangwan5688/BlackHole)
 
 Blackhole is a very good free music streaming service. You should definitely try it. Just note that the app sometimes doesn't work.
 
