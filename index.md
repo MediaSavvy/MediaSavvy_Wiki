@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE"/>
-
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
@@ -36,4 +34,6 @@ features:
     title: Good Options Only
     details: My list only provides the best options rather than a large variety of items that is hard to moderate and keep safe.
 ---
+
+<meta name="google-site-verification" content="DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE" />
 
