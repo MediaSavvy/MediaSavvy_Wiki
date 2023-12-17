@@ -24,7 +24,7 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 # 🗣️ Frequently Asked Questions:
 
 ::: details Can I contribute?
-Yes, you can. To contribute, you can comment your changes/suggestions on my monthly updates on [Reddit](https://reddit.com/r/MediaSavvy_Wiki), you could create an issue on [GitHub(https://github.com/MediaSavvy/MediaSavvy_Wiki.)]
+Yes, you can. To contribute, you can comment your changes/suggestions on my monthly updates on [Reddit](https://reddit.com/r/MediaSavvy_Wiki), you could create an issue on [GitHub](https://github.com/MediaSavvy/MediaSavvy_Wiki.)
 :::
 
 ::: details Can I donate?
