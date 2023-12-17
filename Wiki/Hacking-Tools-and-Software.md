@@ -7,11 +7,6 @@
 
 ***
 
-# 📝Table of Contents 
-[TOC]
-
-***
-
 ### Get infomation on someones phone number:
 
 ##### [Phoneinfoga⭐ ](https://sundowndev.github.io/phoneinfoga)
