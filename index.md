@@ -2,7 +2,6 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-<meta name="google-site-verification" content="DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE" />
 hero:
   name: "MediaSavvy!"
   text: "A free piracy and media wiki"
@@ -20,6 +19,8 @@ hero:
   #  - theme: alt
    #   text: All features
    #   link: /features
+
+<meta name="google-site-verification" content="DCRexKyddux1ICFC-vTdfXUY7H8JbSPpU1DM9I35NgE" />
 
 features:
   - icon: 📅   
