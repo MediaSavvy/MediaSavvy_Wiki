@@ -1,5 +1,6 @@
 # 💻Hacking Tools
-### -> Tools used for ethical hacking, bad hacking, or.. revenge😉 <-
+### Tools used for hacking.
+
 :::warning Note:
 - To learn how to install these tools, [go here](https://rentry.org/how-to-install-the-following-hacking-stuff).
 - I am still adding more tools here, these are just the basics.
