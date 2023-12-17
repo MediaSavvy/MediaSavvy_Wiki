@@ -41,6 +41,7 @@ export default defineConfig({
          { text: '🎵 Music', link: '/Wiki/Music' },
          { text: '🎦 Movies/TV', link: '/Wiki/MoviesandTVShows' },
          { text: '🔠 Piracy Glossary', link: '/Wiki/PiracyGlossary' },
+         { text: '💻 Hacking Tools', link: '/Wiki/Hacking-Tools-and-Software'},
          { text: '⚠️ Unsafe sites/programs', link: '/Wiki/UnsafeSites' }
        ]
      }
