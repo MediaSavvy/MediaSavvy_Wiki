@@ -8,6 +8,13 @@
 #### 1. [Free MP3 Downloader ⭐ ](https://free-mp3-download.net/) 
  Obtains music from Deezer so you may download it in the best possible quality such as FLAC and genuine 320kbps without a membership.
 
+#### 2. SlavArt ⭐ [Discord](https://discord.gg/nTUd5cCf) | [Website](https://slavart.gamesdrive.net/tracks)
+A great website for genuine FLAC music. 
+
+:::warning Note:
+The website is not really reliable because the website gos down quite often, because of this I recommend you use their Discord to download the music you want.
+:::
+
 ***
 
 ### Best Music Streaming App For Android:

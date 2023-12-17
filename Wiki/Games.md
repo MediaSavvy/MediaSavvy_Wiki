@@ -7,12 +7,11 @@
 ### 1. [SteamRIP ⭐ ](https://steamrip.com/)
 
 One of the best sites to download games for free. Has plenty of games for you to download and enjoy. This is my go-to website for cracked games.
-***
+
 ### 2. [GOG-Games](gog-games.to)
 
 An amazing site for patched games. Just remember that it only has GOG games. 
 
-***
 
 ### 3. [FitGirl Repacks ⭐](https://www.fitgirl-repacks.site)
 
@@ -29,19 +28,17 @@ Everything about this is good except for the bad ads and how they try to force t
 
 I highly recommend this site to download modded/paid games for free. I use this site all the time and it has never let me down.
 
-***
+
 
 ### 3. [APKMB](https://www.apkmb.com)
 
 The website is very good. It gets the job done. But there are fake download buttons that will download something malicious. Unless you know what the real download buttons look like or you have an adblocker don't use this website.
 
-***
 
 ### 4. [GameDVA ⭐ ](https://www.gamedva.in)
 
 GameDVA is an AMAZING site with NO ADS! There are lots of mods. It has a decent design.
 
-***
 
 ### Best Patched Game Websites And Apps For iOS and iPadOS:
 
