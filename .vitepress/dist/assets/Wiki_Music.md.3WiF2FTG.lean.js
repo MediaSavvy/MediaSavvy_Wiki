@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,R as a}from"./chunks/framework.AUDb36nd.js";const m=JSON.parse('{"title":"🎵 Music","description":"","frontmatter":{},"headers":[],"relativePath":"Wiki/Music.md","filePath":"Wiki/Music.md"}'),i={name:"Wiki/Music.md"},s=a("",35),r=[s];function l(n,u,h,d,c,p){return o(),t("div",null,r)}const b=e(i,[["render",l]]);export{m as __pageData,b as default};

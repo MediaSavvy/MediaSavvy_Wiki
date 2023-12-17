@@ -78,7 +78,7 @@ A great movie streaming app for Android. The design is great, the streaming is f
 
 Another great movie streaming app, it has a simple and modern design with no ads. It is open-source and has fast streaming speeds.
 
-:::tip Note:
+:::warning Note:
 As I'm writing this the download link in the GitHub readme isn't working, so go [here](https://github.com/rhenwinch/Flixclusive/releases/) for the official working download link on GitHub.
 :::
 

@@ -31,8 +31,8 @@ GameDVA is an AMAZING site with NO ADS! There are lots of mods. It has a decent 
 
 ### Patched software for Windows 10/11
 
-::: tip
-Your antivirus will flag most downloads from these websites. This is because the files are modded or because they come with keygens.
+::: warning
+Your antivirus will flag most downloads from these websites. This is because the files are modded or because they come with keygens, so most of the time they are fine if they flag it as hacktools, keygen, crack or anything similar, however, if multiple trusted antiviruses flag it as trojans or spyware etc it's probably malicious.
 :::
 
 ### 1. [Mobilism ⭐ ](https://forum.mobilism.org/index.php)

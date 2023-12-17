@@ -54,12 +54,12 @@ AdGuard is by far the best adblocker I've used. It has a awesome design and has 
  - Click on Downloaded Profile.
  - Click on AhaDNS Blitz.
  - Click on Install.
-  - Enter the passcode if you have.
+  - Enter the passcode.
   - Click Next.
   - Click Install.
   - Click Install when the popup appears.
 
-**This should block ads on all browsers and apps, but you need to install Adguard for it to be really affective.**
+**This should block ads on all browsers and apps, but you need to install Adguard for it to be really effective**
  
 - Go to the app store, search Adguard and install it.
  - Follow the instructions from the app.
@@ -131,7 +131,6 @@ Chrome is getting a new update that can possibly put an end to adblockers, or re
 ***
 
 ### Adblockers for Windows system-wide:
-
    [Safing Portmaster](https://safing.io/)
   Pi-hole alternative. Block ads & trackers system-wide. Monitor all network activity. Manually allow or block connections. Auto-block via selected filter lists. Enforce DNS-over-HTTPS / TLS. Configure settings for different networks. Set global & per‑app settings.
 
