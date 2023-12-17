@@ -52,7 +52,9 @@ You can use www.downlaoder.la.
 
 ### 9. [⚠️ Unsafe websites/programs](https://mediasavvy.pages.dev/Wiki/UnsafeSites)
 
-::: tip Note: 
+### 10. [💻 Hacking Tools And Software](https://mediasavvy.pages.dev/Hacking-Tools-and-Software)
+
+:::warning Note: 
 This website is still being worked on so more categories are gonna come soon!
 :::
 

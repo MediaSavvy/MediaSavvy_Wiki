@@ -12,7 +12,7 @@ Welcome to my wiki, a trusted source for carefully curated piracy and other info
 
 :::
 
-::: info Additional information:
+::: tip Additional information:
 - All these websites are checked by me and are safe, however, some links may become dangerous, even though they were safe before, so always be cautious whilst browsing these sites.
 - Any program/website marked with a ⭐ means that they are good quality, reliable and recommended by me.
 - To see what websites and programs to avoid, [go here.](https://mediasavvy.pages.dev/wiki/unsafesites).
