@@ -12,7 +12,7 @@
 A great website for genuine FLAC music. 
 
 :::warning Note:
-The website is not really reliable because the website gos down quite often, because of this I recommend you use their Discord to download the music you want.
+The website is not really reliable because the website goes down quite often, because of this I recommend you use their Discord to download the music you want.
 :::
 
 ***
