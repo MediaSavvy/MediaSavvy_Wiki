@@ -32,20 +32,17 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **8. ⭐ [Streamflix](https://watch.streamflix.one/):** Movies & TV Shows & Anime & Live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server
 
+**9. ⭐ [Ask4Movies](https://ask4movie.li/):**  Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
 
-**9. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** Movies & TV Shows / 1080p & Lower / Fast loading speeds / Good Design / Multi Server
-
-**10. ⭐ [Ask4Movies](https://ask4movie.li/):**  Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
-
-**11. ⭐ [Binged](https://binged.live/):** Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
+**10. ⭐ [Binged](https://binged.live/):** Movies & TV / 1080p & Lower / Multi Server / Fast loading speeds / Good Design
 
 
-**12. [Smashystream](https://embed.smashystream.com/):** Movies & TV Shows & Anime / 1080p & lower / Ok loading speeds / Good design / Multi Server
+**11. [Smashystream](https://embed.smashystream.com/):** Movies & TV Shows & Anime / 1080p & lower / Ok loading speeds / Good design / Multi Server
 
 
-**13. [SusFlix](https://susflix.tv/):** Movies & TV Shows & Anime / 4K & Lower / Slow loading speeds / Ok design / Multi Server
+**12. [SusFlix](https://susflix.tv/):** Movies & TV Shows & Anime / 4K & Lower / Slow loading speeds / Ok design / Multi Server
 
-**14. [Netfilm](https://netfilm.app/):** Movies & TV & Anime / 1080p & Lower / Fast loading speeds / Multi Server
+**13. [Netfilm](https://netfilm.app/):** Movies & TV & Anime / 1080p & Lower / Fast loading speeds / Multi Server
 
 
 ***
