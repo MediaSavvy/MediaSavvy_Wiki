@@ -17,6 +17,12 @@
 
 **1. ⭐ [DoubleDouble](https://doubledouble.top/):** FLAC, 320kbps & lower.
 
+**2. ⭐ [squid.wtf](https://squid.wtf/):** FLAC, Deezer.
+
+**3. ⭐ [yet another music server](https://yams.tf/):** Spotify,Qobuz, Tidal, Deezer, FLAC.
+
+**4. ⭐ [MP3 Daddy](https://mp3-daddy.com/):** FLAC, 320KBs.
+
 ***
 
 ### Telegram Music Downloaders:
