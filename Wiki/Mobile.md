@@ -41,13 +41,13 @@
 
 **2. ⭐ [AutoTagger](https://autotagger.ru/):** Metadata Organiser.
 
-**3. ⭐ [ReVanced Manager](https://revanced.app/download):**  Patch YouTube, Reddit, X and other Apps
+**3. ⭐ [ReVanced Manager](https://revanced.app/download):**  Patch YouTube, Reddit, X and other apps.
 
 **4. ⭐ [NewPipe](https://newpipe.net/):** Ad-free YouTube Frontend.
 
 **5. [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium):** Grammarly keyboard premium.
 
-**6. [Smart Autoclicker](https://github.com/Nain57/Smart-AutoClicker):** Auto Clicker.
+**6. [Smart Autoclicker](https://github.com/Nain57/Smart-AutoClicker):** Auto clicker.
 
 **7. [android-call-recorder](https://gitlab.com/axet/android-call-recorder):** Call Recorder.
 
@@ -63,7 +63,7 @@
 
 **2. ⭐ [TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US):** Tor Proxy Apps.
 
-**3. [ProtonVPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android&hl=en&gl=US&pli=1):** Free VPN
+**3. [ProtonVPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android&hl=en&gl=US&pli=1):** Free and private VPN by Proton.
 
 **4. [NetGuard](https://www.netguard.me/):** Block Internet Access Per App.
 
