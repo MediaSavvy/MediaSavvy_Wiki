@@ -26,8 +26,4 @@ Here's everything that will be on the website: (This website is still in develop
 
   ***
 
-  **Rentry Wiki:** https://rentry.org/mediasavvy
-
-  **Main Mirror (Still in development):** https://mediasavvvy.pages.dev
-
 
