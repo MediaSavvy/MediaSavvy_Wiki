@@ -12,11 +12,16 @@
 
 **3. ⭐ [Mobilism](https://forum.mobilism.org/viewforum.php?f=398):** Books / Games / Apps / [App](https://forum.mobilism.org/app/)
 
-**3. [RevDL](https://revdl.com)**
+**4. ⭐ [LiteAPKS](https://liteapks.com)**
 
-**4. [NSANE](https://nsaneforums.com/):** Requires sign-up.
+**5 ⭐ [PDAlife](https://pdalife.com)**
 
-**5. [An1](https://an1.com/)**
+**6. [RevDL](https://revdl.com)**
+
+**7. [NSANE](https://nsaneforums.com/):** Requires sign-up.
+
+**8. [An1](https://an1.com/)**
+
 
 
 ***
