@@ -21,7 +21,7 @@
 
 ***
 
-### Software for Windows 10/11
+### Software for Windows
 
 
 **1. ⭐ [Mobilism](https://forum.mobilism.org/index.php)**
@@ -50,6 +50,8 @@
 
 **9. [NSANE](https://nsaneforums.com/):** Requires sign-up.
 
+**10. [AppDoze](https://appdoze.com/)**
+
 
 **10. [SamLab](https://samlab.ws/)**
 
@@ -61,7 +63,7 @@
 
 ***
 
-### Software for iPads and iPhones 
+### Software for iOS and iPadOS
 
 **1. ⭐ [IPAlibrary](https://www.ipalibrary.me)**
 
