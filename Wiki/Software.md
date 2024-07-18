@@ -76,6 +76,8 @@
 
 **4. [AppCake](https://www.iphonecake.com/):** Does not have a lot of apps for iPads.
 
+**5. [4PDA](https://4pda.to/forum):** Use a translator.
+
 ***
 
 ### Software for Mac:
