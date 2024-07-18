@@ -12,7 +12,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **1. ⭐ [watch.lonelil](https://watch.lonelil.com/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
 
-**2. ⭐ [FMovies](https://www.fmoviesz.to):** 1080p & lower / Fast loading speeds / Good design / Multi Server / Use Filemoon server to be able to download movies.
+**2. ⭐ [FBoxz](https://fboxz.to/):** 1080p & lower / Fast loading speeds / Good design / Multi Server.
 
 **3. ⭐ [Braflix](https://www.braflix.app/):** Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server.
 
