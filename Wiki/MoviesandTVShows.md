@@ -29,11 +29,13 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **8. ⭐ [Binged](https://binged.live/):** 1080p & Lower / Multi Server / Fast loading speeds / Good Design.
 
-**9 ⭐ [Rive](https://rivestream.vercel.app/):** 1080p and 4K / Fast loading speeds / Ad-free / Good Design.
+**9. ⭐ [Rive](https://rivestream.vercel.app/):** 1080p and 4K / Fast loading speeds / Ad-free / Good Design.
 
-**10. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
+**10. ⭐ [PrimeFlix](https://primeflix-web.vercel.app/):** 1080p and 4K / Fast loading speeds / Good Design / A variety of sources
 
-**11. [SFlix](https://sflix.to/):** 1080p & Lower / Ok loading speeds / Ok design / Multi Server.
+**11. [FlixHQ](https://flixhq.click/):** 1080p & lower / Slow loading speeds / Good design / Multi Server.
+
+**12. [SFlix](https://sflix.to/):** 1080p & Lower / Ok loading speeds / Ok design / Multi Server.
 
 
 
