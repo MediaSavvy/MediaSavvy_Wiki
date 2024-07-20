@@ -106,13 +106,15 @@ Make sure to get a VPN before torrenting
 
 **1. ⭐ [Hyperweb](https://apps.apple.com/us/app/hyperweb/id1581824571):** iOS Safari Improvement + Adblock Extension.
 
-**2. [iSH Shell](https://ish.app/):** Terminal Emulator.
+**2. ⭐ [Orion](https://kagi.com/orion/):** Browser w/ Chrome + Firefox Extension Support.
 
-**3. [UTM](https://getutm.app/):** Virtual Machines.
+**3. [iSH Shell](https://ish.app/):** Terminal Emulator.
 
-**4. [RoutineHub](https://routinehub.co/):** Shortcuts.
+**4. [UTM](https://getutm.app/):** Virtual Machines.
 
-**5. [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059):** Scan & Digitize Documents
+**5. [RoutineHub](https://routinehub.co/):** Shortcuts.
+
+**6. [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059):** Scan & Digitize Documents
 
 
 ## iOS Privacy:
