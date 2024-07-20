@@ -5,7 +5,7 @@
 
 **1. ⭐ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/)**
 
-**2. ⭐ [KMS_VL_ALL_A10](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+**2. [KMS_VL_ALL_A10](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 
 ***
 
@@ -73,6 +73,7 @@
 
 ### [Music Streaming Programs For Windows](https://mediasavvy.pages.dev/Wiki/Music.html#best-free-music-streaming-program-for-windows-mac-linux)
 
+### [More Tools](https://mediasavvy.pages.dev/Wiki/Tools.html)
 
 
 
