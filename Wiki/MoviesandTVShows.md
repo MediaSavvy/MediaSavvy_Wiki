@@ -1,4 +1,4 @@
-# 🎦 Movies / TV shows
+see 🎦 Movies / TV shows
 ### Download or stream free movies. 
 
 
@@ -130,6 +130,16 @@ You can download movies / Ok design / 1080p & lower
 **2. ⭐ [Addic7ed](https://www.addic7ed.com/)**
 
 **3. [Subtitle Cat](https://www.subtitlecat.com/)**
+
+### Live TV / Sport
+
+**1. ⭐ [Streamed](https://streamed.su):** Sports
+
+**2. ⭐ [watch.lonelil](https://watch.lonelil.ru/tv):** TV / Sport
+
+**3. [EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html):** TV / Sports
+
+
 
 
 
