@@ -39,13 +39,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 **13. [SFlix](https://sflix.to/):** 1080p & Lower / Ok loading speeds / Ok design / Multi Server.
 
-
-
-
-
-
-
-**13. [Netfilm](https://netfilm.app/):** Movies & TV & Anime / 1080p & Lower / Fast loading speeds / Multi Server
+**14. [Netfilm](https://netfilm.app/):** Movies & TV & Anime / 1080p & Lower / Fast loading speeds / Multi Server
 
 
 ***
