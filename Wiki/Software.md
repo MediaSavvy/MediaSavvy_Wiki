@@ -101,7 +101,7 @@
 
 ***
 
-### [Free Debrid Services](https://mediasavvy.pages.dev/Wiki/Tools#free-download-services)
+### [Free Debrid Services](https://mediasavvy.pages.dev/Wiki/Tools#free-download-services/)
 
 
 
