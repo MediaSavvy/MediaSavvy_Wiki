@@ -1,5 +1,5 @@
-# 🧩 Extensions: For PC
-### Extensions For Your Browser That Will Make Your Life Easier / Extensions That Are Useful.
+# 🧩 Extensions
+### Extensions For Your Browser
 
 ***
 
@@ -35,7 +35,7 @@
 
 ### **Anti-Redirect:**
 
-1. ⭐ [FastForward](https://github.com/FastForwardTeam/FastForward): Succesor to Universal Bypass, a browser extension that can bypass annoying link shorteners.
+1. [FastForward](https://github.com/FastForwardTeam/FastForward): Succesor to Universal Bypass, a browser extension that can bypass annoying link shorteners.
 
 ***
 
@@ -75,7 +75,7 @@
 
 ## Android: Kiwi Browser Only
 
-:::warning The Kiwi browser is a chromium-based browser that supports 99% of extensions from the chrome web store. To download extensions just press the 3 dots at the top right of your phone and press extensions. The best extensions for Kiwi Browser is the same as the ones in Firefox, which is listed above.
+:::warning The Kiwi browser is a chromium-based browser that supports 99% of extensions from the chrome web store. To download extensions just press the 3 dots at the top right of your phone and press extensions. The best extensions for Kiwi Browser is the same as the ones on Firefox, which is listed above.
 :::
 
 
