@@ -23,6 +23,8 @@
 
 **4. ⭐ [MP3 Daddy](https://mp3-daddy.com/):** FLAC, 320KBs.
 
+**5. ⭐ [Lucida](https://lucida.to/):** Multi-Site / 320kb & MP3 & FLAC.
+
 ***
 
 ### Telegram Music Downloaders:
