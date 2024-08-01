@@ -63,7 +63,7 @@
 
 ### Podcasts & Radio
 
-**1. ⭐ [Spotify Podcasts](https://open.spotify.com/browse/podcasts)**
+**1. ⭐ [Spotify Podcasts](https://open.spotify.com/browse/podcasts).**
 
 **2. [Radio Garden](https://radio.garden/):** World-Wide Radios.
 
