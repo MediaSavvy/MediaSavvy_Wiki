@@ -3,7 +3,7 @@
 
 ## AI Chatbots: 
 
-**1. ⭐ [ChatGPT](https://chat.openai.com):** GPT-4o and GPT-3.5 Turbo
+**1. ⭐ [ChatGPT](https://chat.openai.com):** GPT-4o and GPT-3.5 Turbo.
 
 **2. ⭐ [Wrtn](https://wrtn.ai/):** Free GPT 4.
 
