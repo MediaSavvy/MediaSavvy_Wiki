@@ -34,7 +34,7 @@
 - ⭐ [Awesome Android Root](https://awesome-android-root.org/): Step-by-step guide to root.
 **Rooting can potentially brick your device and break bank applications. Make sure you understand the risks before trying out.**
   
-- ⭐ [Termux](https://termux.com/): Terminal Emulator.
+- ⭐ [Termux](https://termux.com/): Terminal Emulator. / [List of packages](https://packages.termux.dev/apt/termux-main/pool/main/)
 
 - ⭐ [AutoTagger](https://autotagger.ru/): Metadata Organiser.
 
@@ -87,6 +87,8 @@ Make sure to get a VPN before torrenting
 
 - ⭐ [Transmission Web](https://rentry.co/88ctfr89/)
 
+- [Aria2](https://gist.github.com/T4P4N/37ea56f0d54138eeaa1c164c54c3d0f2)
+ 
 - [Libre Torrent](https://gitlab.com/proninyaroslav/libretorrent)
 
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
