@@ -96,9 +96,9 @@
 
 - [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - Free Windows C development self-study course
 
-- [WinPwnage](https://github.com/rootm0s/WinPwnage) - Bypass UAC in some computers.
+- [UACME](https://github.com/hfiref0x/UACME) - List of known UAC Bypass methods.
 
-- [GrabAccess](https://github.com/Push3AX/GrabAccess) - Another great tool to Bypass UAC.
+- [GrabAccess](https://github.com/Push3AX/GrabAccess) - A great tool to Bypass UAC.
 
 - [Hiren BootCD](https://www.hirensbootcd.org/download/) - HBCD_PE_x64.iso image to be used with Rufus, can clear or change admin password on Windows, only work if the BIOS password hasn't been already set.
 
@@ -172,6 +172,4 @@
 
 - [0day.today.archive](https://github.com/vulncheck-oss/0day.today.archive) - List of exploits that were available on 0day.today (CW and DW).
   
-- [More Hacking tools](https://github.com/carryingwater/MoreHackingTools) - A catalog of resources for hackers.
-
-- [PentestGPT](https://pentestgpt.ai/login) - Artificial Intelligence.
+- [More Hacking tools](https://github.com/Laxa/HackingTools) - A catalog of resources for hackers.
